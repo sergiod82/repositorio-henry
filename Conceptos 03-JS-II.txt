@@ -1,0 +1,7 @@
+for: Es un ciclo o bucle,una estrutura repetitiva que nos permite agrupar codigo y asi no escribir tanto codigo una y otra vez. Requiere de: inicio; condicion; incremento.
+
+&&: Significa "Y" (AND), es un operador logico, evalua dos elementos y devuelve "true" si ambos son verdaderos. Si uno o dos de ellos son falso devolvera "false".  
+
+||: Significa "O" (OR), operador logico, devuelve "true" si cualquiera de los dos elementos es verdadero y devuelve "false" si los dos elemntos son falsos.
+
+!: Operador logico significa "NO" (NOT), devuelve "true" cuando el valor es falso, y devuelve "false" cuando es verdadero.

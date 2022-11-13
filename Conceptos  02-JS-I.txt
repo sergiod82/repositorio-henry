@@ -1,0 +1,10 @@
+*Variables: Las variables son espacios en memoria,y llevan un nombre para identificarlas, pueden ser de tipo texto o numerico, y contienen un valor.
+
+*Strings: Son bloques de caracteres,pueden ser letras, numeros, que siempre iran entre comillas, 'simples' o "dobles".
+
+*Funciones (argumentos, "return"): Sirven para agrupar codigo que luego pueda ejecutarse, sin necesidad de repetir codigo tantas veces.
+
+*Declaraciones "if": Es una estructura condicional, si se cumple la condicion declarada en if se ejecuta el codigo, si es falsa se puede ejecutar otras acciones. 
+
+*Valores booleanos ("true", "false"): Los booleanos tienen dos opciones, verdadero o falso, apagar o encender, 0 o 1.
+
